@@ -1,0 +1,2 @@
+# imgSlider
+html, css, javascript
